@@ -30,7 +30,7 @@ class PluginSettings:
 
     # Deriva provider Constants added by Mingzhe
     DERIVA_CLIENT_ID = 'oauth.deriva_client_id'
-    DERIVA_CLIENT_SECRET = 'oauth.globus_client_secret'
+    DERIVA_CLIENT_SECRET = 'oauth.deriva_client_secret'
 
 
 
